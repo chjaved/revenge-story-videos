@@ -1,9 +1,5 @@
 # How to run the server
 
-## [📚 Join our Skool community for support, premium content and more!](https://www.skool.com/ai-agents-az/about?gw9)
-
-### Be part of a growing community and help us create more content like this
-
 ## Windows
 
 0. Install `Docker Desktop` from the Windows Store
