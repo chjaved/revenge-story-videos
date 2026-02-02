@@ -2,19 +2,6 @@
   "name": "My workflow 14",
   "nodes": [
     {
-      "parameters": {
-        "content": "# 📚 [Join our Skool community for support, premium content and more!](https://www.skool.com/ai-agents-az/about?w9)\n\n## Be part of a growing community and help us create more content like this",
-        "height": 220,
-        "width": 700,
-        "color": 6
-      },
-      "type": "n8n-nodes-base.stickyNote",
-      "typeVersion": 1,
-      "position": [9860, 5800],
-      "id": "44f740f1-7849-4d41-bf55-57bb89ad4c08",
-      "name": "Sticky Note6"
-    },
-    {
       "parameters": {},
       "type": "n8n-nodes-base.manualTrigger",
       "typeVersion": 1,
